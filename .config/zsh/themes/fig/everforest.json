@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Sam",
+    "twitter": "@<YOUR TWITTER HANDLE>",
+    "github": "<YOUR GITHUB HANDLE>"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#d3c6aa",
+    "backgroundColor": "#374145",
+    "matchBackgroundColor": "#4f5b58",
+    "selection": {
+      "textColor": "#d3c6aa",
+      "backgroundColor": "#414b50"
+    },
+    "description": {
+      "textColor": "#d3c6aa",
+      "borderColor": "#a7c080"
+    }
+  }
+}

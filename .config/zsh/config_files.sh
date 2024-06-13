@@ -1,0 +1,15 @@
+export EDITOR='code'
+
+alias zshconfig='cd ~/.config/zsh; $EDITOR ~/.config/zsh'
+alias nvimconfig='cd ~/.config/nvim/; $EDITOR ~/.config/nvim'
+alias hammerspoonconfig='cd ~/.hammerspoon; $EDITOR ~/.hammerspoon'
+alias kittyconfig='$EDITOR ~/.config/kitty/kitty.conf'
+alias i3config='$EDITOR ~/.config/i3/config'
+alias vimconfig='$EDITOR ~/.vimrc'
+alias polybarconfig='$EDITOR ~/.config/polybar/config'
+alias yabaiconfig='$EDITOR ~/.config/yabai/yabairc'
+alias skhdconfig='$EDITOR ~/.config/skhd/skhdrc'
+alias spacebarconfig='$EDITOR ~/.config/spacebar/spacebarrc'
+alias mtmrconfig='code ~/.config/mtmr/items.json'
+alias rangerconfig='$EDITOR ~/.config/ranger/rc.conf'
+
