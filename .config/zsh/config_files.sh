@@ -1,4 +1,4 @@
-export EDITOR='code'
+export EDITOR='zed'
 
 alias zshconfig='cd ~/.config/zsh; $EDITOR ~/.config/zsh'
 alias nvimconfig='cd ~/.config/nvim/; $EDITOR ~/.config/nvim'

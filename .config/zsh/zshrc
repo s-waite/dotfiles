@@ -10,7 +10,7 @@ source ${source_dir}/env_variables.sh
 source ${source_dir}/functions.sh
 source ${source_dir}/path.sh
 source ${plugin_dir}/zsh-git-support.sh
-source ${plugin_dir}/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ${plugin_dir}/zsh-vi-mode/zsh-vi-mode.zsh
 eval "$(lua ${plugin_dir}/z.lua/z.lua --init zsh enhanced once echo)"
 ZVM_VI_INSERT_ESCAPE_BINDKEY=jk
